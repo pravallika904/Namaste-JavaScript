@@ -1,2 +1,2 @@
-# Namaste-JavaScript
+# Udemy-JavaScript
 JavaScript-Repository
